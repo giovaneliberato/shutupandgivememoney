@@ -1,0 +1,51 @@
+
+.bg{
+	width: 99%;
+	height: 98%;
+	position: fixed;
+}
+
+.car{
+	width: 12%;
+	height: 14%;
+	position: relative;
+	margin-top: 492px;
+	margin-left: 100px;
+}
+
+.cannon{
+	margin-left: 81px;
+    margin-top: 485px;
+    position: absolute;
+    width: 12%;
+}
+
+.btn-launch{
+	position: absolute;
+	width: 4%;
+	height: 5%;
+	margin-top: 530px;
+	margin-left: -245px;
+}
+.money{
+	position: absolute;
+	width: 2%;
+	height: 3%;
+	top: 504px;
+	left: 150px;
+}
+
+.me{
+	margin-left: 1100px;
+    margin-top: 501px;
+    position: absolute;
+    width: 4%;
+}
+
+.feedback{
+	background-color: white;
+	margin-left: 1100px;
+    margin-top: 18px;
+    display: none;
+    position: absolute;
+}
